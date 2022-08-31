@@ -1,0 +1,1 @@
+, 25, "1mw") # Chamando o método do objeto passando argumentos
